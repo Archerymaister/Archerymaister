@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![OM NOM NOM](packman.svg)
+
 <!--
 **Archerymaister/Archerymaister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
