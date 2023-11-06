@@ -6,7 +6,7 @@ Hi, I am Archy! 🤘
 
 🎧 All music genres are good but 80s rock is the best!
 
-🎮 I like playing Minecraft, so I started developing server plugins for [Cube-Nation](https://github.com/Cube-Nation)! Currently working on something big!
+🎮 I like playing Minecraft, so I started developing server plugins for [Cube-Nation](https://github.com/Cube-Nation)!
 
 🕸️ If you find my name anywhere on the internet, it is probably me.
 
